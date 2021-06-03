@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98534201455",
+    "project_id": "flutterapporder",
+    "storage_bucket": "flutterapporder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98534201455:android:b47e92a8256def588fd59a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_orderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98534201455-143p1socjdva21tcm7nfiossslbgeda8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYUVjPXk8VVjUNrre-vwLFheYDF4_q50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98534201455-143p1socjdva21tcm7nfiossslbgeda8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
